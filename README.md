@@ -36,7 +36,7 @@ Classes and objects
 
 Modules and packages
 
-regular expressions
+Regular expressions
 
 Basic operations on text files
 
